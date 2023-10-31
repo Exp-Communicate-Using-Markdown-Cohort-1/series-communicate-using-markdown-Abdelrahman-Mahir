@@ -1,5 +1,5 @@
 # Markdown Lesson
-This to show how to implement headers tags
+This is to show how to implement header tags
 ## H2
 ### H3
 #### H4
@@ -9,3 +9,6 @@ This to show how to implement headers tags
 for x in range(2):
   Print("Hello World!")
 ```
+- [ ] Make GUI
+- [ ] Collision functionality
+- [ ] Make randomization function
